@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Scrapy
+output/
+.httpcache/
+
+# Outputs
+*.json
+*.csv
+
+# Ambiente
+.env
